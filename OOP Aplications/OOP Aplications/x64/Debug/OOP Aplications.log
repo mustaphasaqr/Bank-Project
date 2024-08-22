@@ -1,0 +1,23 @@
+﻿  OOP Aplications.cpp
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsBankClient.h(434,30): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsLoginScreen.h(56,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\OOP Aplications\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  OOP Aplications.vcxproj -> C:\Users\zeina\Desktop\Bank System oop\Bank-Managment-System-main\OOP Aplications\x64\Debug\OOP Aplications.exe
